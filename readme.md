@@ -207,6 +207,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.facebook.com/)
 - [Python wrapper for Facebook](https://github.com/sciyoshi/pyfacebook/)
 
+### [FinancialData](https://financialdata.net/) - Stock Market and Financial Data
+- [API Documentation](https://financialdata.net/documentation)
+- [Python wrapper for FinancialData](https://github.com/financialdatanet/fdnpy)
+
 ### [FedEx](http://www.fedex.com/) - Global courier delivery services
 - [API Documentation](http://www.fedex.com/us/developer/)
 - [Python wrapper for FedEx](https://github.com/gtaylor/python-fedex/)
