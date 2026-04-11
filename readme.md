@@ -211,6 +211,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.fedex.com/us/developer/)
 - [Python wrapper for FedEx](https://github.com/gtaylor/python-fedex/)
 
+### [FinancialData](https://financialdata.net/) - Financial data provider
+- [API Documentation](https://financialdata.net/documentation)
+- [Python wrapper for FinancialData](https://github.com/financialdatanet/fdnpy)
+
 ### [Flickr](http://www.flickr.com) - Image and Video hosting
 - [API Documentation](http://www.flickr.com/services/api/)
 - [Python wrapper #1](https://github.com/michaelhelmick/python-flickr)
